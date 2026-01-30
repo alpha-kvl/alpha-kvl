@@ -1,7 +1,7 @@
 <!DOCTYPE html><html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=class, initial-scale=1.0" />
   <title>Learn With Abhishek</title>
   <meta name="description" content="Learn Python, Telegram Bots, Websites and Technology step by step." />
   <style>
@@ -82,7 +82,7 @@
 
 <div class="card" id="contact">
   <h2>Contact Us</h2>
-  <p>Email: contact@example.com</p>
+  <p>Email: p2pathene@gmail.com</p>
 </div>
 
 <div class="card" id="privacy">
